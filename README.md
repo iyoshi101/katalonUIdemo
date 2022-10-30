@@ -15,7 +15,7 @@ from using BDD frameworks with your solution to this exercise.
 ## Test Case Created
 
 - Sign up - User is able to complete sign up page 1
-- Sign up - User is able to complete disng up page 2
+- Sign up - User is able to complete sign up page 2
 - Project - New user is able to create new project
 - Project - Existing user is able to create new project
 - Task - User is able to create task for a new project
