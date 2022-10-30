@@ -1,9 +1,15 @@
 {
-  "keywordFileContentHash": "F714997654CD58672B10F58F4C641C83",
+  "keywordFileContentHash": "08A62AFB83A192945560EB5A2F5FD2AE",
   "keywordClasses": [
     {
       "name": "testData.RandomPhone",
-      "keywordMethods": []
+      "keywordMethods": [
+        {
+          "name": "getPhone",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
     }
   ],
   "javadocParsed": true

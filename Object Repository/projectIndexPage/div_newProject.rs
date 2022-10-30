@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_newProject</name>
+   <tag></tag>
+   <elementGuidId>77875806-3589-47d8-97fe-a6587240fa4a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = '+ New project' or . = '+ New project')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.new-project.pointer.relative-pos.project-card</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-tab-body[@id='mat-tab-content-0-0']/div/div/div/div/cdk-virtual-scroll-viewport/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>91d24879-dc08-438e-a749-31fd727db7a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>new-project pointer relative-pos project-card</value>
+      <webElementGuid>c5aee9ff-1e5f-4117-b7ba-79a4ebdd394f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>+ New project</value>
+      <webElementGuid>8041d0a9-e3b4-424d-aee5-5a9bd8402c22</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-tab-content-0-0&quot;)/div[@class=&quot;mat-tab-body-content ng-trigger ng-trigger-translateTab&quot;]/div[@class=&quot;row ng-star-inserted&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;projects&quot;]/cdk-virtual-scroll-viewport[@class=&quot;projects-scroll-viewport cdk-virtual-scroll-viewport cdk-virtual-scroll-orientation-vertical&quot;]/div[@class=&quot;cdk-virtual-scroll-content-wrapper&quot;]/div[@class=&quot;project-card-wrapper empty-state&quot;]/div[@class=&quot;new-project pointer relative-pos project-card&quot;]</value>
+      <webElementGuid>f7a7b813-a77b-431a-aaca-7058a36570e3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-tab-body[@id='mat-tab-content-0-0']/div/div/div/div/cdk-virtual-scroll-viewport/div/div/div</value>
+      <webElementGuid>61a5f4f5-7dbc-4d99-95f6-148d31845324</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sample project - TNE'])[1]/following::div[14]</value>
+      <webElementGuid>541359d6-db1b-41c6-a98a-8f41b9f6dd65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Projects (1)'])[1]/following::div[26]</value>
+      <webElementGuid>8cc341cb-98f5-4155-86b4-93b2421b6aad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Show archived'])[1]/preceding::div[2]</value>
+      <webElementGuid>c5337f39-8ded-487f-9c1f-23128d2b876c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//cdk-virtual-scroll-viewport/div/div/div</value>
+      <webElementGuid>6677887c-42a2-47e2-89ba-8421ca98fe2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '+ New project' or . = '+ New project')]</value>
+      <webElementGuid>c0ce6ed9-ff7b-4e39-9b11-162c63c279dd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

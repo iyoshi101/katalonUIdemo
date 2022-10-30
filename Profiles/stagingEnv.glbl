@@ -64,4 +64,14 @@
       <initValue>1</initValue>
       <name>testNumberOfEmpoyees</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'test project'</initValue>
+      <name>testProjectName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'QA task'</initValue>
+      <name>testTaskName</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_newProject</name>
+   <tag></tag>
+   <elementGuidId>d20cba17-e456-4f71-bd6a-f82e57ca3567</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.new-project.pointer.relative-pos.project-card > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-tab-body[@id='mat-tab-content-0-0']/div/div/div/div/cdk-virtual-scroll-viewport/div/div/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>51218fb7-867e-4256-bf08-af99edf2f799</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>translate</name>
+      <type>Main</type>
+      <value>PLUS_NEW_PROJECT</value>
+      <webElementGuid>5deb2be2-e8d4-4cd5-a04d-a50d81d13b39</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-translate</name>
+      <type>Main</type>
+      <value>PLUS_NEW_PROJECT</value>
+      <webElementGuid>94e323cb-0466-422b-bdb5-e674352f9601</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>+ New project</value>
+      <webElementGuid>fbc3bd18-7320-4fa0-9f5e-830b278752d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-tab-content-0-0&quot;)/div[@class=&quot;mat-tab-body-content ng-trigger ng-trigger-translateTab&quot;]/div[@class=&quot;row ng-star-inserted&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;projects&quot;]/cdk-virtual-scroll-viewport[@class=&quot;projects-scroll-viewport cdk-virtual-scroll-viewport cdk-virtual-scroll-orientation-vertical&quot;]/div[@class=&quot;cdk-virtual-scroll-content-wrapper&quot;]/div[@class=&quot;project-card-wrapper empty-state&quot;]/div[@class=&quot;new-project pointer relative-pos project-card&quot;]/span[1]</value>
+      <webElementGuid>8d4ee0a5-ed4f-42f8-ae37-f82ca34a22b2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-tab-body[@id='mat-tab-content-0-0']/div/div/div/div/cdk-virtual-scroll-viewport/div/div/div/span</value>
+      <webElementGuid>95026229-4a60-48eb-b551-4d610a5117c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sample project - QTE'])[1]/following::span[1]</value>
+      <webElementGuid>572a8a56-9ece-466a-92fe-c99696bf8abd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Projects (1)'])[1]/following::span[1]</value>
+      <webElementGuid>495e8946-a716-4dff-b5b2-d0e616ba9151</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Show archived'])[1]/preceding::span[1]</value>
+      <webElementGuid>9a5b732f-969b-4776-abc2-23316f4af155</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Keyboard Shortcuts:'])[1]/preceding::span[1]</value>
+      <webElementGuid>3a683e61-d91f-4cc6-aa1a-8518667cef5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='+ New project']/parent::*</value>
+      <webElementGuid>f23c1fac-0bd9-4e18-b7f4-818ae123ea3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/span</value>
+      <webElementGuid>4f27ed58-0e82-4da2-83e3-e9fe53797141</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '+ New project' or . = '+ New project')]</value>
+      <webElementGuid>44e144a4-db6d-4dd6-840a-6f6f0ce3a589</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

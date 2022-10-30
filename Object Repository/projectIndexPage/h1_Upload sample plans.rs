@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_Upload sample plans</name>
+   <tag></tag>
+   <elementGuidId>29c94781-2ebf-4117-8c48-092d1a5630a0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h1.ng-binding</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[1]/preceding::h1[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>0f9c48f4-682e-4b5d-88fc-63acb6460eec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-bind-html</name>
+      <type>Main</type>
+      <value>title</value>
+      <webElementGuid>5c440ba0-2a44-45cf-b945-221d587d289f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-binding</value>
+      <webElementGuid>61c3a72f-bc15-4805-a3ad-c9d13a6e2395</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Upload sample plans?</value>
+      <webElementGuid>b7570a8b-1784-4fa0-95ce-90e403e71853</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;ng-scope&quot;]/body[@class=&quot;ng-tns-0-0 modal-open&quot;]/div[@class=&quot;modal sample-floorplans-modal action-modal fade ng-scope ng-isolate-scope in&quot;]/div[@class=&quot;modal-dialog&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-wrapper ng-scope&quot;]/div[@class=&quot;modal-header&quot;]/h1[@class=&quot;ng-binding&quot;]</value>
+      <webElementGuid>4989404e-bb07-41cb-9158-425035759a92</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[1]/preceding::h1[1]</value>
+      <webElementGuid>62f785a6-b4aa-42e9-b27f-14f7d69893bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Yes'])[1]/preceding::h1[1]</value>
+      <webElementGuid>14ff1342-58e4-4264-8920-109ee5d5a8a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Upload sample plans?']/parent::*</value>
+      <webElementGuid>708f9f4e-3e03-4786-a7d1-e7ab58418617</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>bb563cae-5358-44f0-8358-250419684752</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'Upload sample plans?' or . = 'Upload sample plans?')]</value>
+      <webElementGuid>1eda46b3-77e5-4439-b1d9-174a2c51f1b2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
