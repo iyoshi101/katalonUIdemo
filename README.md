@@ -27,7 +27,7 @@ from using BDD frameworks with your solution to this exercise.
 - E2E - New user is able to signup, create new project and new task
 - E2E - New user is able to signup, select existing project and create new task
 
-##E xecution
+## Execution
 After launching Katalon studio and imported project
 1. Click and expand Test Suites
 2. Click on ```E2E - fieldwire Signup, create project and create task``` script
