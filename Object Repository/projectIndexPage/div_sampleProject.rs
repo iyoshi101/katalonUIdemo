@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_sampleProject</name>
+   <tag></tag>
+   <elementGuidId>fb169fe4-6fed-4f45-9adf-abe9f8284175</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = ' Sample project - TNE 3' or . = ' Sample project - TNE 3')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.project-card</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-tab-body[@id='mat-tab-content-3-0']/div/div/div/div/cdk-virtual-scroll-viewport/div/project-card/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0b6be3e0-abe3-422a-9e0b-26536e9d7670</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>project-card</value>
+      <webElementGuid>c7ee9140-d445-4405-bf22-e4aeb34aead6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-klass</name>
+      <type>Main</type>
+      <value>project-card</value>
+      <webElementGuid>50aab74a-b11d-4612-b8d9-b8b922b1950c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-ng-class</name>
+      <type>Main</type>
+      <value>[object Object]</value>
+      <webElementGuid>604a7b13-31b6-435e-8931-0ebf2e925597</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Sample project - TNE 3</value>
+      <webElementGuid>1456d69a-0ec8-4fe6-b13a-82f5c32e10a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-tab-content-3-0&quot;)/div[@class=&quot;mat-tab-body-content ng-trigger ng-trigger-translateTab&quot;]/div[@class=&quot;row ng-star-inserted&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;projects&quot;]/cdk-virtual-scroll-viewport[@class=&quot;projects-scroll-viewport cdk-virtual-scroll-viewport cdk-virtual-scroll-orientation-vertical&quot;]/div[@class=&quot;cdk-virtual-scroll-content-wrapper&quot;]/project-card[@class=&quot;project-card-wrapper ng-star-inserted&quot;]/div[@class=&quot;project-card&quot;]</value>
+      <webElementGuid>5df41136-d685-4f52-b844-0c9e57f55b7b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-tab-body[@id='mat-tab-content-3-0']/div/div/div/div/cdk-virtual-scroll-viewport/div/project-card/div</value>
+      <webElementGuid>652b455d-aa2b-4ca8-b03d-9a8585b5d00e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Projects (2)'])[1]/following::div[9]</value>
+      <webElementGuid>1f1c4195-8466-4b84-a245-e447ceb7b2b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sort'])[1]/following::div[17]</value>
+      <webElementGuid>638d2c95-68cf-4420-84e4-54af91855e96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='test'])[2]/preceding::div[16]</value>
+      <webElementGuid>38efab1f-04e1-483c-8004-b42acd2b0ff8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//project-card/div</value>
+      <webElementGuid>bbb2a361-d2af-423f-8a2e-91dcb180890e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Sample project - TNE 3' or . = ' Sample project - TNE 3')]</value>
+      <webElementGuid>f546aff4-47d9-47a9-b180-8a078602d4de</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
