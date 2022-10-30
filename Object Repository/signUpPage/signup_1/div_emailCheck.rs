@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_emailCheck</name>
+   <tag></tag>
+   <elementGuidId>e096d00f-6d3f-4a63-bde5-92844770c729</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='login']/form/fieldset[2]/div[2]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;login&quot;)/form[@class=&quot;form-signin ng-invalid ng-invalid-required ng-valid-minlength ng-dirty ng-valid-parse ng-valid-email ng-valid-pattern&quot;]/fieldset[2]/div[@class=&quot;fa fa-check fa-long-field ng-scope&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>febe2d6f-62ba-4a85-9240-2ac9e57ec591</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-check fa-long-field ng-scope</value>
+      <webElementGuid>88ca38ff-6881-4f58-81ba-98e491e3e29f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-if</name>
+      <type>Main</type>
+      <value>inputStates.email.check</value>
+      <webElementGuid>a7fe7295-021e-4f0e-a69d-bbcf969d5d17</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;login&quot;)/form[@class=&quot;form-signin ng-invalid ng-invalid-required ng-valid-minlength ng-dirty ng-valid-parse ng-valid-email ng-valid-pattern&quot;]/fieldset[2]/div[@class=&quot;fa fa-check fa-long-field ng-scope&quot;]</value>
+      <webElementGuid>08cfebed-652c-4553-9d2e-14891d1af74b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='login']/form/fieldset[2]/div[2]</value>
+      <webElementGuid>a2b85dba-fcc7-435f-969c-897ff575ba38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//fieldset[2]/div[2]</value>
+      <webElementGuid>d5e60edb-6bfa-4e8b-99a9-938de1e4b492</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

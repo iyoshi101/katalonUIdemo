@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_firstNameCheck</name>
+   <tag></tag>
+   <elementGuidId>59019e76-0e78-463d-9297-a79f33618307</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='login']/form/fieldset/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.fa.fa-check.fa-short-field.ng-scope</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>53f2debf-83d9-4479-b8cc-2c5ce5e72219</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-check fa-short-field ng-scope</value>
+      <webElementGuid>8a47a2f9-958e-4bbe-b400-20dbe8553e55</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-if</name>
+      <type>Main</type>
+      <value>inputStates.firstName.check</value>
+      <webElementGuid>60afb79c-ca66-4ad0-b92b-79bb283659df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;login&quot;)/form[@class=&quot;form-signin ng-invalid ng-invalid-required ng-valid-minlength ng-valid-email ng-valid-pattern ng-dirty ng-valid-parse&quot;]/fieldset[@class=&quot;inline-input&quot;]/div[@class=&quot;fa fa-check fa-short-field ng-scope&quot;]</value>
+      <webElementGuid>b9f21b05-991d-46ea-8ba3-6a0bbc960239</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='login']/form/fieldset/div[2]</value>
+      <webElementGuid>a70f5e44-d8eb-48bc-9e03-bbb0eb2e3cf9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//fieldset/div[2]</value>
+      <webElementGuid>2f932f81-ba0f-4601-a75f-c5f50d189897</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

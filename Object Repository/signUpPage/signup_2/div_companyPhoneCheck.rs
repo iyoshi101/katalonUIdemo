@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_companyPhoneCheck</name>
+   <tag></tag>
+   <elementGuidId>2734070a-a83c-494a-8b5a-e311b5698920</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='login']/form/fieldset[4]/fw-intl-phone-number/div/form/div[3]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;login&quot;)/form[@class=&quot;form-signin profile ng-dirty ng-valid-parse ng-invalid ng-invalid-required ng-valid-minlength ng-valid-pattern&quot;]/fieldset[4]/fw-intl-phone-number[1]/div[@class=&quot;intl-phone-number-container&quot;]/form[@class=&quot;ng-untouched ng-dirty ng-valid&quot;]/div[@class=&quot;fa fa-check fa-long-field validation-icon&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.fa.fa-check.fa-long-field.validation-icon</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3c2e2e97-e351-4efb-b7ad-511d475df090</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-check fa-long-field validation-icon</value>
+      <webElementGuid>0acdb2c9-1a2b-47e4-83c1-d0ce791a37ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;login&quot;)/form[@class=&quot;form-signin profile ng-dirty ng-valid-parse ng-invalid ng-invalid-required ng-valid-minlength ng-valid-pattern&quot;]/fieldset[4]/fw-intl-phone-number[1]/div[@class=&quot;intl-phone-number-container&quot;]/form[@class=&quot;ng-untouched ng-dirty ng-valid&quot;]/div[@class=&quot;fa fa-check fa-long-field validation-icon&quot;]</value>
+      <webElementGuid>091e8788-e8d4-4bf8-b8a3-ee3b925eb615</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='login']/form/fieldset[4]/fw-intl-phone-number/div/form/div[3]</value>
+      <webElementGuid>8fd03cfd-46aa-460e-a1ce-1a922e363b52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[3]</value>
+      <webElementGuid>b5a36dfa-fe8d-415e-82e0-3e9c0eb57473</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

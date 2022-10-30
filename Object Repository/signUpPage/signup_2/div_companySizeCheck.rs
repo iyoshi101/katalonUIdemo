@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_companySizeCheck</name>
+   <tag></tag>
+   <elementGuidId>3c5b5917-7a7b-4f90-a27f-73c4e5a2b085</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='login']/form/fieldset[3]/div[2]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;login&quot;)/form[@class=&quot;form-signin profile ng-dirty ng-valid-parse ng-invalid ng-invalid-required ng-valid-minlength ng-valid-pattern&quot;]/fieldset[3]/div[@class=&quot;fa fa-check fa-long-field ng-scope&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5111383a-92b9-47fa-b9e4-a7f346a7033b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-check fa-long-field ng-scope</value>
+      <webElementGuid>51cb1b72-4d96-42f2-a18f-66f74a33bfa4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-if</name>
+      <type>Main</type>
+      <value>inputStates.companySize.check</value>
+      <webElementGuid>a90df1e5-8e7d-4368-b0f4-0323c61cf36b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;login&quot;)/form[@class=&quot;form-signin profile ng-dirty ng-valid-parse ng-invalid ng-invalid-required ng-valid-minlength ng-valid-pattern&quot;]/fieldset[3]/div[@class=&quot;fa fa-check fa-long-field ng-scope&quot;]</value>
+      <webElementGuid>9648e8b6-92f9-4a2b-9539-b4675a367c65</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='login']/form/fieldset[3]/div[2]</value>
+      <webElementGuid>6cf495bd-3d48-464e-baa1-e296c7110a18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//fieldset[3]/div[2]</value>
+      <webElementGuid>ac76f99a-afc7-49c9-9e0c-bd3820417453</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

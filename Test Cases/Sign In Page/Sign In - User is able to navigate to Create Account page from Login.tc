@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Sign In - User is able to navigate to Create Account page from Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>921b2ee7-c1a3-496a-b5f0-d4145378dfcd</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_passwordCheck</name>
+   <tag></tag>
+   <elementGuidId>fbd1aad9-8838-4bca-8e2d-89925f013f60</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='login']/form/fieldset[3]/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>fieldset.create-account-pw-input-container > div.fa.fa-check.fa-long-field.ng-scope</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6b12e6ec-0437-43ee-9a14-7270e0bebafb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-check fa-long-field ng-scope</value>
+      <webElementGuid>dd0623d1-ba52-4760-8db2-937711c1e089</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-if</name>
+      <type>Main</type>
+      <value>inputStates.password.check</value>
+      <webElementGuid>e7625c77-84b6-4f57-bc05-2ad8531e324b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;login&quot;)/form[@class=&quot;form-signin ng-invalid ng-invalid-required ng-dirty ng-valid-parse ng-valid-email ng-valid-pattern ng-valid-minlength&quot;]/fieldset[@class=&quot;create-account-pw-input-container&quot;]/div[@class=&quot;fa fa-check fa-long-field ng-scope&quot;]</value>
+      <webElementGuid>9caceb58-915c-46df-aa3a-b1714650763a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='login']/form/fieldset[3]/div[2]</value>
+      <webElementGuid>22c0655c-33e4-4842-9dbf-bbb0ac68673c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//fieldset[3]/div[2]</value>
+      <webElementGuid>23edff7b-1b5d-47ec-8d9f-11e2e2d489b3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

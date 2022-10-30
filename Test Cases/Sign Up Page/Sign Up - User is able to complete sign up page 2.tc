@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Sign Up - User is able to complete sign up page 2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>48cff85a-ba97-4094-95ed-a0e45784c5c0</testCaseGuid>
+</TestCaseEntity>

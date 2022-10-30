@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Log In - User is able to login with existing user</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d5450868-5d70-4ab6-9f7b-d3e0951f6605</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_profileHeader</name>
+   <tag></tag>
+   <elementGuidId>6f84a44a-045b-4df7-a8d5-e0ab853bb518</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='login']/form/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.terms.ng-scope</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>c47bf993-6f72-439b-ac2b-cc9a17cc96a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>terms ng-scope</value>
+      <webElementGuid>421d280e-8199-4b11-85f9-da0c089e51be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>translate</name>
+      <type>Main</type>
+      <value>COMPLETE_YOUR_PROFILE</value>
+      <webElementGuid>a6a37b98-5db1-4d85-8e0d-2fe1923db7c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Complete your proﬁle to access Fieldwire</value>
+      <webElementGuid>925a6c83-f457-4ae3-9c8e-76e85bcb8107</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;login&quot;)/form[@class=&quot;form-signin profile ng-dirty ng-valid-parse ng-invalid ng-invalid-required ng-valid-minlength ng-valid-pattern&quot;]/p[@class=&quot;terms ng-scope&quot;]</value>
+      <webElementGuid>50201765-cffe-45e2-a192-ddb808e8c549</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='login']/form/p</value>
+      <webElementGuid>67555b46-c7a1-42cb-b0ee-139efe6305b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Complete'])[1]/preceding::p[1]</value>
+      <webElementGuid>9c9d1324-2017-484e-8191-f82aa4749ec4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Keyboard Shortcuts:'])[1]/preceding::p[1]</value>
+      <webElementGuid>6a7720fa-b794-4a7d-bb0c-34684c928ae5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Complete your proﬁle to access Fieldwire']/parent::*</value>
+      <webElementGuid>097a59ec-a1f4-417f-9d4c-6bd58bb93702</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>28226509-93c3-4618-a5cf-c1a69a7fbb56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Complete your proﬁle to access Fieldwire' or . = 'Complete your proﬁle to access Fieldwire')]</value>
+      <webElementGuid>109c3fbf-c5a0-4fff-a012-0fd2437ace28</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

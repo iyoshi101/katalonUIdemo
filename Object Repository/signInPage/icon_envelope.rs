@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>icon_envelope</name>
+   <tag></tag>
+   <elementGuidId>a942524c-3e83-4092-b28e-5b2595c4a28e</elementGuidId>
+   <imagePath>Screenshots/Targets/Page_Fieldwire/icon_envelope.png</imagePath>
+   <selectorCollection>
+      <entry>
+         <key>IMAGE</key>
+         <value>Screenshots/Targets/Page_Fieldwire/icon_envelope.png</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='auth-sign-in']/div/form/fieldset/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-envelope</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>98532d03-fc6e-4424-a85c-a36d2af96937</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-envelope</value>
+      <webElementGuid>2060ece4-67b2-4b5e-b4b0-353dd7c836cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;auth-sign-in&quot;)/div[@class=&quot;auth-card&quot;]/form[@class=&quot;form-signin ng-invalid ng-dirty ng-valid-parse ng-invalid-email ng-valid-required&quot;]/fieldset[1]/i[@class=&quot;fa fa-envelope&quot;]</value>
+      <webElementGuid>21b28eb1-2366-4a10-b8df-64b3a8e49d5f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='auth-sign-in']/div/form/fieldset/i</value>
+      <webElementGuid>89484fdd-9e57-4012-a97b-9f449b5f709a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//i</value>
+      <webElementGuid>2e0a01b0-fce6-460d-a4fd-ef860d823fd7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

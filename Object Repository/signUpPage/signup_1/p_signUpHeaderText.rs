@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_signUpHeaderText</name>
+   <tag></tag>
+   <elementGuidId>721b2040-b6d2-4e2d-86c9-8e57ecaa57c3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='login']/form/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.terms.ng-scope</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>449f1742-1ff1-409b-b9e4-b4c10f777eb8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>terms ng-scope</value>
+      <webElementGuid>59d8fc09-4576-4632-a306-505bb41b9f07</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>translate</name>
+      <type>Main</type>
+      <value>CREATE_YOUR_FREE_ACCOUNT</value>
+      <webElementGuid>98c932b7-38bf-4102-8c61-7feea3bd0d8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Create your free account to get started</value>
+      <webElementGuid>2bed442a-757f-426a-b7a3-29ecc4f19a74</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;login&quot;)/form[@class=&quot;form-signin ng-invalid ng-invalid-required ng-valid-minlength ng-valid-email ng-valid-pattern ng-dirty ng-valid-parse&quot;]/p[@class=&quot;terms ng-scope&quot;]</value>
+      <webElementGuid>056f6668-7eeb-4e79-a82b-1676b3b88af9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='login']/form/p</value>
+      <webElementGuid>867ad8ff-c617-4d2e-a41e-3dd7c3f271d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Subscription Agreement'])[1]/preceding::p[1]</value>
+      <webElementGuid>c7be8a97-38aa-4ffc-826f-5f665249481b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Create your free account to get started']/parent::*</value>
+      <webElementGuid>1ed531d7-8f8f-4e96-8904-d831bbdc4f91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>8d023f39-1637-4cb5-a97f-3a28d81c18a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Create your free account to get started' or . = 'Create your free account to get started')]</value>
+      <webElementGuid>72236920-ad6c-4ecf-af87-bc3486c78942</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
