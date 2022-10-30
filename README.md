@@ -1,9 +1,9 @@
 # katalonUIdemo
 
-##Test Frame Work
+## Test Frame Work
 Katalon Studio - https://katalon.com/
 
-##Test Scope
+## Test Scope
 - Sign up flow
 - Project Creation
 - Task Creation
