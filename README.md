@@ -14,10 +14,12 @@ from using BDD frameworks with your solution to this exercise.
 
 ## Test Case Created
 
+- Auth - User is able to login
 - Sign up - User is able to complete sign up page 1
 - Sign up - User is able to complete sign up page 2
 - Project - New user is able to create new project
 - Project - Existing user is able to create new project
+- Project - User is able to select an existing project
 - Task - User is able to create task for a new project
 - Task - User is able to create task for an existing project
 
